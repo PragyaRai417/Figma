@@ -1,5 +1,5 @@
-🎓 Otarea – Explore New Possibilities<br>
-🚀 Live Demo: https://otarea-connect.netlify.app/<br>
+🎓 Otarea – Explore New Possibilities<br><br>
+🚀 Live Demo: https://otarea-connect.netlify.app/<br><br>
 A modern and interactive platform aimed at expanding opportunities in the fields of education and technology.Developed using HTML, CSS, and JavaScript, Otarea provides a smooth and engaging user experience.The site features a fixed navigation bar, a smart search-enabled hero section, dynamic blog listings, and a strong call-to-action encouraging users to download the mobile app.<br>
 
 🚀 Key Features<br>
